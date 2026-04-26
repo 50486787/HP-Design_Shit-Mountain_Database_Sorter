@@ -1,4 +1,4 @@
-# 设计院屎山数据库整理工具 V1.0 (Design Shit-Mountain Database Sorter V1.0)
+# HP设计院屎山数据库整理工具 V1.0 (HP-Design Shit-Mountain Database Sorter V1.0)
 
 ![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
